@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'holothurian'
+}
+item {
+  id: 2
+  name: 'echinus'
+}
+item {
+  id: 3
+  name: 'scallop'
+}
+item {
+  id: 4
+  name: 'starfish'
+}
+item {
+  id: 5
+  name: 'waterweeds'
+}
